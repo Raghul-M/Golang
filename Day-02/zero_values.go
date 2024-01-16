@@ -1,0 +1,15 @@
+package main
+
+import "fmt"
+
+func main() {
+	var y int     // 0
+	var z bool    // false
+	var aa string // ""
+	var bb *int   // nil  (Integer Pointer)
+	fmt.Println("Y=", y)
+	fmt.Println("z=", z)
+	fmt.Println("aa=", aa)
+	fmt.Println("bb=", bb)
+	
+}
